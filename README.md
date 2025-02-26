@@ -2,8 +2,6 @@
 
 A sophisticated system-level project implementing comprehensive virtual machine management, hardware-assisted virtualization, and advanced memory management capabilities.
 
-GitHub Repository: [0x0060/vm-hypervisor-toolkit](https://github.com/0x0060/vm-hypervisor-toolkit)
-
 ## Overview
 
 This project delivers a robust virtual machine management system with advanced features including:
